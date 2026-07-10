@@ -138,6 +138,20 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
         1.2.4.1.2. Zahra + Mueez
         1.2.4.1.3. Hafsa
           1.2.4.1.3.1. Reiyan
+      1.2.4.2. Afzal Ashroff + Fareeha Afzal
+        1.2.4.2.1. Zainab Afzal + Fiham Bishry
+          1.2.4.2.1.1. Mariam Fiham
+          1.2.4.2.1.2. Eissa Fiham
+        1.2.4.2.2. Afza Afzal
+      1.2.4.3. Shiraz Ashroff + Shameema Shiraz
+        1.2.4.3.1. Tanvir Shiraz
+        1.2.4.3.2. Sarfraz Shiraz
+      1.2.4.4. Fiaz Ashroff + Niroza Fiaz
+        1.2.4.4.1. Safdar Fiaz
+        1.2.4.4.2. Aqila Fiaz
+      1.2.4.5. Zaharan Ashroff + Shamra Zaharan
+        1.2.4.5.1. Ahad Zaharan
+        1.2.4.5.2. Salma Zaharan
     1.2.5. Aynul Faiza Saleem + Abdul Majeed Segu Abdul Cader
       1.2.5.1. Mohamed Flyle Cader + Ayeshathul Marliya Ghouse
         1.2.5.1.1. Fathima Nabeela Cader
