@@ -349,7 +349,23 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
       1.10.8.3. Nusfa + Shifaq
         1.10.8.3.1. Safiya
         1.10.8.3.2. Nubaid
-  1.11. Naleefathu Thahira Shariff + Reyal M.L.M.
+  1.11. Nabeesathul Thahira + Reyal M.L.M.
+    1.11.1. Aslam + Munawwara
+      1.11.1.1. Jasmin
+      1.11.1.2. Waseem
+    1.11.2. Imtiaz + Aliya
+    1.11.3. Shirin + Iqbal
+      1.11.3.1. Ismail + Kulzum
+        1.11.3.1.1. Sulaimaan
+      1.11.3.2. Shahzad + Nadhiya
+    1.11.4. Zarina + Gunarathne
+      1.11.4.1. Milan + Kanchana
+        1.11.4.1.1. Keith
+      1.11.4.2. Shama + Kanishka
+    1.11.5. Shahnaz + Fazlyn
+      1.11.5.1. Zeena + Fazal
+        1.11.5.1.1. Zulekha
+      1.11.5.2. Imran
   1.12. Ghanimathus Saadiya Shariff + Muhular
     1.12.1. Nasooh Muhular + Nazuha
       1.12.1.1. Nazrif + Ishrath
